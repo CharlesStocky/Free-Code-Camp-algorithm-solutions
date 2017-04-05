@@ -1,7 +1,7 @@
 
 function chunkArrayInGroups(arr, size) { 
   // Break it up.
-  var groupedLett; 
+  var groupedLetter; 
   var blankArr = []; 
   var i = 0
   while(i < arr.length){
