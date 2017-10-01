@@ -1,5 +1,4 @@
 
-//create method to return new 'pushed' array instead of length
 
 function getIndexToIns(arr, num) {
   // Find my place in this sorted array.
